@@ -1,0 +1,45 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 20px 0;
+  text-align: left;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1em;
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+a {
+  color: #61dafb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

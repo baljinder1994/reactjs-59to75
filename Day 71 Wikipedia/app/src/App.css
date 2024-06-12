@@ -1,0 +1,34 @@
+/* src/components/SearchResults.css */
+
+.search-results {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.search-result-item {
+  display: flex;
+  align-items: flex-start;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 10px;
+}
+
+.result-thumbnail {
+  max-width: 150px;
+  margin-right: 20px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.result-content {
+  flex: 1;
+}
+
+.result-content h3 {
+  margin: 0 0 10px 0;
+}
+
+.result-content p {
+  margin: 0;
+}
